@@ -1,0 +1,11 @@
+H:\Your Time\Your Time\bin\Debug\Your Time.exe.config
+H:\Your Time\Your Time\bin\Debug\Your Time.exe
+H:\Your Time\Your Time\bin\Debug\Your Time.pdb
+H:\Your Time\Your Time\obj\Debug\Your Time.csprojAssemblyReference.cache
+H:\Your Time\Your Time\obj\Debug\Your_Time.Form1.resources
+H:\Your Time\Your Time\obj\Debug\Your_Time.Properties.Resources.resources
+H:\Your Time\Your Time\obj\Debug\Your Time.csproj.GenerateResource.cache
+H:\Your Time\Your Time\obj\Debug\Your Time.csproj.CoreCompileInputs.cache
+H:\Your Time\Your Time\obj\Debug\Your Time.exe
+H:\Your Time\Your Time\obj\Debug\Your Time.pdb
+H:\Your Time\Your Time\obj\Debug\Your_Time.info.resources
